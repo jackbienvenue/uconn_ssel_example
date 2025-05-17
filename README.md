@@ -4,36 +4,57 @@ This template is provided for Sports Statistics Experiential Learning (SSEL) stu
 
 Use of this template is not required for the program, but it may be helpful, especially to those who are new to Git and GitHub.
 
+> [!IMPORTANT]
+> **Please read the [Getting Started](Getting_Started/Getting_Started.md) guide before setting up your GitHub Repository!**
+
 ## Project Description
 
-Tell your audience about your SSEL project here!
+Introduce your SSEL project in this section!
+
+### Background
+
+Why is this work important? What is the relevance of your research question to the team/sport being studied?
+
+### Objectives
+
+What are the goals of your study?
 
 ---
 
----
+# Analysis Plan
 
-# Getting Started (delete section in your project)
+### Data Collection
 
-Before starting, make sure that you have a GitHub account. While UConn presently does not delete repositories managed by its enterprise system, its safer to store your SSEL project in a personal account.
+Where will your data come from? How was it collected? 
 
-To customize and use this GitHub Repository template for your sports statistics project, begin by *forking* the repository in the first step below.
+### Data Cleaning
 
-### 1. Forking the Repository
+Upon cleaning your data, what information did you decide to keep?
 
-To fork the repository, go to the top of the repository's home page.
+If you had to make any contentious choices in your data cleaning process, list those here. 
 
-### 2. Cloning into Your Forked Repository
+### Statistical Design
 
-### 3. Accessing the 
+What statistical methods are used in your study? Why were these selected? What might they tell you?
 
-### 4. Scripting and Making Commits
+#### Statistical Method 1
 
-### 5. Command Line Interface (also referred to as terminal, shell, etc.)
-
-
+#### Statistical Method 2...
 
 ---
 
+# Conclusions
+
+Briefly describe the conclusions supported by the findings of your study.
+
 ---
 
-# P
+# Discussion
+
+After having done the project, what are you still curious about? What would you like to know more? What are some potential limitations of your study? 
+
+---
+
+# Acknowledgements
+
+In this section, you can make acknowledgements to those who help you with your project, like your UConn team partner. 
