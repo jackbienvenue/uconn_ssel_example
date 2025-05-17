@@ -1,3 +1,5 @@
+![](Images/UConnSSELPlogo.png)
+
 # Project Title Here
 
 This template is provided for Sports Statistics Experiential Learning (SSEL) students to practice using GitHub for version control, organization, and Git, while also making themselves a portfolio item for future applications.
@@ -23,23 +25,23 @@ What are the goals of your study?
 
 # Analysis Plan
 
-### Data Collection
+## Data Collection
 
 Where will your data come from? How was it collected? 
 
-### Data Cleaning
+## Data Cleaning
 
 Upon cleaning your data, what information did you decide to keep?
 
 If you had to make any contentious choices in your data cleaning process, list those here. 
 
-### Statistical Design
+## Statistical Design
 
 What statistical methods are used in your study? Why were these selected? What might they tell you?
 
-#### Statistical Method 1
+### Statistical Method 1
 
-#### Statistical Method 2...
+### Statistical Method 2...
 
 ---
 
