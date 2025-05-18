@@ -1,0 +1,34 @@
+---
+title: "Getting Started with R Markdown"
+author: Jack Bienvenue
+date: 17 May, 2025
+output: html_document
+---
+
+# Getting Started with R Markdown
+
+R Markdown is a great tool for combining your writing and programming in a single document. It's perfect for data analysis, reporting, and reproducible research. You can use R Markdown in **RStudio**, and it supports both **R** and **Python** code (with some setup).
+
+In an R Markdown file, you write your main content in **Markdown**, and insert **code chunks** for your programming work. Code chunks begin and end with **three backticks**, and the chunk starts with curly braces to specify the language. They look like this (remove the `#` signs when using):
+
+R Markdown files are best used in RStudio. Downloading RStudio is a good idea, even if you plan to code in VS Code, to ensure that your R code runs.
+
+````markdown
+````markdown
+Like Quarto Markdown files, code chunks are opened with three backticks (this symbol: ` ) followed by {r}, and closed with three more backticks.
+
+Here's an example of using an R code chunk in an .rmd file:
+
+```{r}
+# Generate 1000 random numbers from a normal distribution
+data <- rnorm(1000, mean = 50, sd = 10)
+
+# Create a histogram
+hist(data,
+     main = "Histogram of Normally Distributed Data",
+     xlab = "Value",
+     col = "lightblue",
+     border = "black")
+```
+
+Download RStudio [here](https://posit.co/downloads/).

@@ -1,0 +1,34 @@
+---
+author: Jack Bienvenue
+date: 17 May, 2025
+format: html
+---
+
+# Getting Started with Quarto 
+
+Quarto is a great tool for doing your project programming, and is my personal favorite for programming projects. It supports Python and R simultaneously, and you can work with Quarto Markdown (.qmd) files in RStudio, Jupyter, or VS Code. 
+
+In Quarto Markdown files, you can do your writing in regular markdown language and build in code chunks for your programming tasks. Code chunks started with three back-apostrophes and when curly braces specifying the language. They look like this, minus the # signs.
+
+<pre>``` {python} 
+Your code goes here 
+```
+</pre>
+
+When rendered, they look like this:
+
+```{python}
+import pandas as pd
+
+# Basketball data example (NBA)
+url = "https://www.basketball-reference.com/leagues/NBA_2025_per_game.html"
+tables = pd.read_html(url)
+df = tables[0]
+df = df[df['Player'] != 'Player']
+df.reset_index(drop=True, inplace=True)
+print(df[df['Player'] == 'Giannis Antetokounmpo'])
+```
+
+Quarto Markdown files are awesome! I recommend trying them out. 
+
+Download Quarto [here](https://quarto.org/).
