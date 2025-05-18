@@ -1,25 +1,28 @@
 ![](Images/UConnSSELPlogo.png)
 
-# Project Title Here
+# NCAA Basketball's Turnaround Teams' Secrets
 
-This template is provided for Sports Statistics Experiential Learning (SSEL) students to practice using GitHub for version control, organization, and Git, while also making themselves a portfolio item for future applications.
+The NCAA March Madness tournaments are the most memorable sports tournaments of the year. Getting there is no easy task. The pressure is on all season long for teams to perform. 
 
-Use of this template is not required for the program, but it may be helpful, especially to those who are new to Git and GitHub.
+Unfortunately, bad years are inevitable for any program. Where should your team focus its energy if you find yourself in a rut? Let's use a machine learning approach to find some of the key characteristics of NCAA basketball teams who improved their performance between the 2024 and 2025 seasons. 
 
-> [!IMPORTANT]
-> **Please read the [Getting Started](Getting_Started/Getting_Started.md) guide before setting up your GitHub Repository!**
+![NCAA Women's Basketball, All Rights Reserved](Images/bueckers.gif)
 
 ## Project Description
 
-Introduce your SSEL project in this section!
-
 ### Background
 
-Why is this work important? What is the relevance of your research question to the team/sport being studied?
+Whether the goal is making a playoff run, just punching a ticket to the postseason, or hustling a little more than last season, every NCAA team is looking to improve its performance. 
+
+Struggling teams may be able to use the results of this project for a data-guided improvement plan for their lineup ahead of a new season.
+
+For college basketball fans, little is more frustrating than their team struggling!
+
+![NCAA Men's Basketball, All Rights Reserved](Images/hurley_mad.gif)
 
 ### Objectives
 
-What are the goals of your study?
+This project seeks to use feature importance to identify the most impactful predictors of team improvement. 
 
 ---
 
@@ -59,4 +62,10 @@ After having done the project, what are you still curious about? What would you 
 
 # Acknowledgements
 
-In this section, you can make acknowledgements to those who help you with your project, like your UConn team partner. 
+Special thanks to the UConn Department of Statistics and the CLAS Academic Services Center.
+
+I hope this template was helpful! Now, remember, if UConn is having a rough year on the court, we can always turn to the dairy bar!
+
+~Jack
+
+![](Images/ice_cream.gif)
